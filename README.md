@@ -22,3 +22,7 @@ There's loads of scope for students to make improvements to this game, simple or
 	<li>Perhaps add different terrains for different levels.</li>
 </ul>
 
+#Kettle Run 2
+
+This excting new version of the game features randomised terrain, longer runs on higher levels - and a lovely cup of tea!
+
