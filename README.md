@@ -1,4 +1,5 @@
-# kettle_run
+Kettle Run
+
 Can you do the Kettle Run in less than 12 parsecs?
 
 Here's another Python game for the BBC MicroBit that's very easy for pupils to edit and improve.
@@ -10,6 +11,8 @@ Use the A and B buttons to move left and right, avoiding obstacles as you fly. I
 The aim is to get to your home port in order to put the kettle on for a nice cup of tea.
 
 Complete 1 mission, and you go again - this time the game is faster and the terrain harder to navigate. Complete 5 and you win the game.
+
+Hook a speaker or headphones up to pins 0 and GND for the audio experience.
 
 There's loads of scope for students to make improvements to this game, simple or complex:
 <ul>
