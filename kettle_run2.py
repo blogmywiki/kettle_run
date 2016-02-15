@@ -99,10 +99,10 @@ while level < 6:         # increase this number to add more levels
 if not crash:        
     play(NYAN, wait=False)
     display.show('YOU WIN')
-    while True:
-        display.scroll('Press reset to play again')
+    sleep(1000)
 else:
     display.show('GAME OVER')
     sleep(1000)
-    while True:
-        display.scroll('Press reset to play again')
+    
+while True:
+  display.scroll('Press reset to play again')
