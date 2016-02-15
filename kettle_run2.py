@@ -1,4 +1,5 @@
 # KettleRun2: a more challenging game with randomised terrain
+# by Giles Booth / @blogmywiki
 # Guide your ship to home port and put the kettle on.
 # Can you do the Kettle Run in less than 12 parsecs?
 
