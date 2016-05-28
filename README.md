@@ -26,3 +26,7 @@ There's loads of scope for students to make improvements to this game, simple or
 
 This excting new version of the game features randomised terrain, longer runs on higher levels - and a lovely cup of tea!
 
+#kettlerun.hex
+
+This is a hex file of Kettle Run 2 you can drag straight onto your micro:bit - if you just want to play the game and don't want to know how it works or modify it.
+
