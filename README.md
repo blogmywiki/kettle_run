@@ -1,6 +1,6 @@
 #Kettle Run
 
-!(http://i.imgur.com/gYLpbMM.png)
+![Kettle Run](http://i.imgur.com/gYLpbMM.png)
 
 (https://youtu.be/XJQb1DxJtcA)
 
