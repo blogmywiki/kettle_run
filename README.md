@@ -20,6 +20,7 @@ There's loads of scope for students to make improvements to this game, simple or
 	<li>Make the game harder by speeding it up more on each level by making the number bigger in <code>speed -= 20</code></li>
 	<li>Edit the terrain image to make it bigger or more challenging - the game should play as long as the image lasts.</li>
 	<li>Perhaps add different terrains for different levels.</li>
+	<li>Replace the button presses with tilt control of your ship.</li>
 </ul>
 
 #Kettle Run 2
