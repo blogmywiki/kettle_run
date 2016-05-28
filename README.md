@@ -1,6 +1,6 @@
 #Kettle Run
 
-![IMAGE ALT TEXT HERE](http://imgur.com/gYLpbMM)](https://youtu.be/XJQb1DxJtcA)
+[![IMAGE ALT TEXT HERE](http://imgur.com/gYLpbMM)](https://youtu.be/XJQb1DxJtcA)
 
 
 Can you do the Kettle Run in less than 12 parsecs?
