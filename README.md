@@ -7,9 +7,9 @@
 
 Can you do the Kettle Run in less than 12 parsecs?
 
-Here's another Python game for the BBC MicroBit that's very easy for pupils to edit and improve.
+Here's another Python game for the BBC micro:bit that's very easy for pupils to edit and improve.
 
-The idea is that you navigate your ship through a canyon - or cave system or mountains. You can rotate your MicroBit through 90 degrees and fly up &amp; down or stay left and right. Use your imagination.
+The idea is that you navigate your ship through a canyon - or cave system or mountains. You can rotate your micro:bit through 90 degrees and fly up &amp; down or stay left and right. Use your imagination.
 
 Use the A and B buttons to move left and right (or up and down), avoiding obstacles as you fly. If you hit anything it's GAME OVER and you press the reset button on the back to play again.
 
